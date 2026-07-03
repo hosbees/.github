@@ -45,9 +45,9 @@ hosbee/
 
 | 모듈 | 개발(dev)                | 운영(prod)               |
 |------|------------------------|------------------------|
-| hosbee-admin-api | https://dev-admin-api.hosbee.com | https://admin-api.hosbee.com |
+| hosbee-admin-api | `https://dev-admin-api.hosbee.com` | `https://admin-api.hosbee.com` |
 | hosbee-admin-ui | https://dev-admin.hosbee.com | https://admin.hosbee.com |
-| hosbee-user-api | https://dev-api.hosbee.com | https://api.hosbee.com |
+| hosbee-user-api | `https://dev-api.hosbee.com` | `https://api.hosbee.com` |
 | hosbee-web-ui | https://dev.hosbee.com | https://www.hosbee.com |
 
 ---
