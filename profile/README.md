@@ -1,9 +1,6 @@
-# Hosbee
+# Hosbee - 프리랜서 개발자를 위한프로젝트 수주 플랫폼
 
 <img width="192" height="192" alt="apple-icon-precomposed" src="https://github.com/user-attachments/assets/f35364d7-1308-492c-8b62-7a287ae75144" />
-
-
-서비스 통합 관리 플랫폼
 
 ---
 
