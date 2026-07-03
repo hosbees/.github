@@ -1,6 +1,6 @@
-# <img width="57" height="57" alt="apple-icon-57x57" src="https://github.com/user-attachments/assets/695b0dfa-129c-4c76-8ab6-6926e5450491" /> Hosbee
+# <img width="48" height="48" alt="android-icon-48x48" src="https://github.com/user-attachments/assets/ead12891-6fec-4941-b2d0-fafa073c0485" /> Hosbee
 
-프리랜서 개발자를 위한프로젝트 수주 플랫폼
+프리랜서 개발자를 위한 프로젝트 수주 플랫폼
 
 ---
 
@@ -133,4 +133,3 @@ docker compose -f docker-compose.prod.yml logs -f
 # 특정 서비스
 docker compose -f docker-compose.prod.yml logs -f hosbee-user-api
 ```
-
