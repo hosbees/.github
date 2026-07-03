@@ -1,4 +1,6 @@
-# <img width="57" height="57" alt="apple-icon-57x57" src="https://github.com/user-attachments/assets/695b0dfa-129c-4c76-8ab6-6926e5450491" /> Hosbee - 프리랜서 개발자를 위한프로젝트 수주 플랫폼
+# <img width="57" height="57" alt="apple-icon-57x57" src="https://github.com/user-attachments/assets/695b0dfa-129c-4c76-8ab6-6926e5450491" /> Hosbee
+
+프리랜서 개발자를 위한프로젝트 수주 플랫폼
 
 ---
 
